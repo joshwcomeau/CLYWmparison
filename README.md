@@ -1,6 +1,11 @@
 CLYWmparison
 ==============
 
+This project is now finished! You can see it live on two places:
+
+<a href="http://joshwcomeau.github.io/">The original standalone version</a>
+<a href="http://www.clyw.ca/pages/clywmparison">The embedded version, created for CLYW's website.</a>
+
 As a hobbyist modern-day yoyoer, there are 3 primary stats I look at when purchasing a new yoyo:
 
 <ol>
